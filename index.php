@@ -8,5 +8,9 @@
 <body>
     <?php echo "cikiber"; ?>
     <p>Cikiber</p>
+    <ul>
+        <li>cikiber</li>
+        <li>cikiber</li>
+    </ul>
 </body>
 </html>

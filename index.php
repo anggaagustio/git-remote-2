@@ -7,5 +7,6 @@
 </head>
 <body>
     <?php echo "cikiber"; ?>
+    <p>Cikiber</p>
 </body>
 </html>
